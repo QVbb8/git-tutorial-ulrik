@@ -1,4 +1,4 @@
-hello world, life is easy with git, right? Is it?
+hello beautiful world, life is easy with git, right? Is it?
 Not so easy
 
 ## superduperimportant fix
